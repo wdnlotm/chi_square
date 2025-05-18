@@ -23,6 +23,7 @@ editor: source
 - https://medium.com/bukalapak-data/meet-the-engine-of-a-b-testing-chi-square-test-30e8a8ab44c5
 
 # Pearson's chi-squared test
+![](EasternGraySquirrel_GAm.jpg){width=30%}
 
 Suppose that *n* observations in a random sample from a population are classified into 2 mutually exclusive classes with respective observed numbers of observations $x_i$ (for $i = 1,2$), and a null hypothesis gives the probability $p_i$ that an observation falls into the *i~th~* class. So, we have the expected numbers $m_1=np_1$ and $m_2=np_2$.
 
